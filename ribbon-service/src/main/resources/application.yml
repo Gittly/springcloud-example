@@ -5,3 +5,6 @@ eureka:
     registeWithEureka: false
 server:
   port: 8901
+spring:
+  application:
+    name: service-ribbon

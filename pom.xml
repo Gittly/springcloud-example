@@ -17,6 +17,7 @@
         <module>eureka-client</module>
         <module>ribbon-service</module>
         <module>feign-client</module>
+        <module>zuul-service</module>
     </modules>
     <packaging>pom</packaging>
 
